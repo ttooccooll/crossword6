@@ -15,7 +15,7 @@
 			 	{
 					clue: "Raden Jacob Salatun, the founder of Indonesia's space institute, described encounters with UFOs during his time in the military while serving at this large, populated island.",
 					answer: "java",
-					position: 2,
+					position: 3,
 					orientation: "across",
 					startx: 5,
 					starty: 1
