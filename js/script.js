@@ -21,7 +21,7 @@
 					starty: 1
 				},
 				{
-					clue: "As a PSA, this is something that is far more likely to harm you in your sleap than any extraterrestial beings.",
+					clue: "As a PSA, this is something that is far more likely to harm you in your sleep than any extraterrestial beings.",
 					answer: "osa",
 					position: 6,
 					orientation: "across",
